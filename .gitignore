@@ -1,0 +1,13 @@
+# Credentials
+config.json
+.env
+*.secret
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
