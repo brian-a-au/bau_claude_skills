@@ -4,6 +4,7 @@ config.json
 *.secret
 
 # OS files
+.claude
 .DS_Store
 Thumbs.db
 
