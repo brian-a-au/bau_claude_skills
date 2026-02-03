@@ -6,8 +6,10 @@ Personal collection of Claude Code skills for workflow automation and integratio
 
 | Skill | Description |
 |-------|-------------|
+| [adobe-analytics-concepts](skills/adobe-analytics-concepts/SKILL.md) | Conceptual guidance for Adobe Analytics - core concepts (eVars, props, events), tracking design, analysis workflows, and governance |
 | [adobe-api-setup](skills/adobe-api-setup/SKILL.md) | Guide for configuring Adobe AEP and CJA API access with OAuth Server-to-Server authentication |
 | [cja-sdr-generator](skills/cja-sdr-generator/SKILL.md) | Generate SDR documents from CJA, compare Data Views, and track configuration changes |
+| [customer-journey-analytics-concepts](skills/customer-journey-analytics-concepts/SKILL.md) | Conceptual guidance for Adobe CJA - connections, data views, identity, cross-channel journey analysis |
 
 ## Installation
 
@@ -51,7 +53,7 @@ Check that your skills are installed correctly:
 ls ~/.claude/skills/
 ```
 
-You should see the skill folders listed (e.g., `adobe-api-setup`, `cja-sdr-generator`).
+You should see the skill folders listed (e.g., `adobe-analytics-concepts`, `adobe-api-setup`, `cja-sdr-generator`, `customer-journey-analytics-concepts`).
 
 ### Step 4: Use the skills
 
